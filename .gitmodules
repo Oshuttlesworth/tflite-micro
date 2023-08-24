@@ -1,0 +1,3 @@
+[submodule "mvm"]
+	path = mvm
+	url = https://github.com/orhuntamyigit/bit-slicing-mvm.git
