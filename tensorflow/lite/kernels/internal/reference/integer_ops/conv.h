@@ -18,7 +18,7 @@ limitations under the License.
 
 #include "tensorflow/lite/kernels/internal/common.h"
 #include "tensorflow/lite/kernels/internal/portable_tensor_utils.h"
-#include "mvm.h"
+#include "mvm/mvm.h"
 #include "stm32h7xx_hal.h"
 
 namespace tflite {
